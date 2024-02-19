@@ -3,21 +3,22 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Helmholtz Information & Data Science Academy"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
-language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "51.165691"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "10.451526"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humantime: "9:00 am - 5:00 pm CEST (7:00 am - 3:00 pm UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-email: ["hida-courses@helmholtz.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+layout: workshop
+venue: "Helmholtz Information & Data Science Academy"
+address: "online"
+country: "de"
+language: "en"
+latitude: "51.165691"
+longitude: "10.451526"
 humandate: "Mar 11-12, 2024"
+humantime: "9:00 am - 5:00 pm CEST (7:00 am - 3:00 pm UTC)"
 startdate: 2024-03-11
 enddate: 2024-03-12
 instructor: ["Shashank Harivyasi", "Daniel Morillo-Cuadrado", "Jia Qi Beh", "Paul Czechowski"]
 helper: ["Daniel Morillo-Cuadrado", "Paul Czechowski"]
+email: ["hida-courses@helmholtz.de"]
 collaborative_notes:  https://pad.carpentries.org/2024-03-11-helmholtz-online
+eventbrite:
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
