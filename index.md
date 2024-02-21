@@ -3,7 +3,6 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-layout: workshop
 venue: "Helmholtz Information & Data Science Academy"
 address: "online"
 country: "de"
@@ -291,7 +290,7 @@ Collaborative Notes
 
 If you want to use an Etherpad, go to
 
-https://pad.carpentries.org/2024-02-12-helmholtz-online
+https://pad.carpentries.org/2024-03-11-helmholtz-online
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
