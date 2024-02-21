@@ -3,7 +3,7 @@
 # The Carpentries Workshop Template adjusted for HIDA - Helmholtz Information & Data Science Academy
 
 This repository an adjustmente of the The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
-[Library Carpentry][lc-site]'s) template for creating websites for workshops. It was adjusted for the course **Software Carpentry (Shell, Git, and programming with R)** running Feb 12-13, 2024.
+[Library Carpentry][lc-site]'s) template for creating websites for workshops. It was adjusted for the course **Software Carpentry (Shell, Git, and programming with R)** running Mar 11-12, 2024.
 
 1. **Please _do not fork this repository directly on GitHub._** Instead, please use GitHub's
    "template" function following [the instructions below](#creating-a-repository) to copy this
